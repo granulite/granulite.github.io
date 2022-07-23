@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[granulite's blog]]></title>
-  <link href="granulite.netlify.app/atom.xml" rel="self"/>
-  <link href="granulite.netlify.app/"/>
-  <updated>2022-03-08T21:10:44+08:00</updated>
-  <id>granulite.netlify.app/</id>
+  <link href="yxq.wiki/atom.xml" rel="self"/>
+  <link href="yxq.wiki/"/>
+  <updated>2022-03-13T18:13:43+08:00</updated>
+  <id>yxq.wiki/</id>
   <author>
     <name><![CDATA[]]></name>
     
@@ -13,10 +13,32 @@
   <generator uri="http://www.mweb.im/">MWeb</generator>
   
   <entry>
+    <title type="html"><![CDATA[夏日里的快乐事]]></title>
+    <link href="yxq.wiki/16585699363900.html"/>
+    <updated>2022-07-23T17:52:16+08:00</updated>
+    <id>yxq.wiki/16585699363900.html</id>
+    <content type="html"><![CDATA[
+<p><img src="media/16585699363900/16585699474155.jpg" alt="" /></p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[如何使用Time Machine将文件从Mac备份到Synology NAS？]]></title>
+    <link href="yxq.wiki/16470723446450.html"/>
+    <updated>2022-03-12T16:05:44+08:00</updated>
+    <id>yxq.wiki/16470723446450.html</id>
+    <content type="html"><![CDATA[
+<p><a href="https://kb.synology.cn/zh-cn/DSM/tutorial/How_to_back_up_files_from_Mac_to_Synology_NAS_with_Time_Machine">https://kb.synology.cn/zh-cn/DSM/tutorial/How_to_back_up_files_from_Mac_to_Synology_NAS_with_Time_Machine</a></p>
+
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[静攀美食]]></title>
-    <link href="granulite.netlify.app/jingpanmeishi.html"/>
+    <link href="yxq.wiki/jingpanmeishi.html"/>
     <updated>2022-03-06T20:17:11+08:00</updated>
-    <id>granulite.netlify.app/jingpanmeishi.html</id>
+    <id>yxq.wiki/jingpanmeishi.html</id>
     <content type="html"><![CDATA[
 <p>2022年3月6日 20:18:45</p>
 <p>提了很久的 静攀 约定，今天终于来兑现了.<br />
@@ -30,32 +52,31 @@
 <ul>
 <li>意面黑胡椒放得略多，有点辣</li>
 <li>烤蔬菜一般</li>
-<li>烤鱿鱼一般<br />
-haha</li>
+<li>烤鱿鱼一般</li>
 </ul>
-<p><img src="media/16465690312823/16465690653775.jpg" alt="" /></p>
+<p><img src="http://yxqwiki.oss-cn-beijing.aliyuncs.com/2022/03/07/16465690653775.jpg" alt="" /></p>
 <p>值得给预定牌一个特写<br />
-<img src="media/16465690312823/R0008681.JPG" alt="R0008681" /></p>
+<img src="http://yxqwiki.oss-cn-beijing.aliyuncs.com/2022/03/07/r0008681.JPG" alt="R0008681" /></p>
 <p>七成熟的和牛<br />
-<img src="media/16465690312823/R0008697.JPG" alt="R0008697" /></p>
+<img src="http://yxqwiki.oss-cn-beijing.aliyuncs.com/2022/03/07/r0008697.JPG" alt="R0008697" /></p>
 <p>可选择样式的牛排刀<br />
-![R0008682](media/164<img src="media/16465690312823/R0008683.JPG" alt="R0008683" /><br />
+![R0008682](media/164<img src="http://yxqwiki.oss-cn-beijing.aliyuncs.com/2022/03/07/r0008683.JPG" alt="R0008683" /><br />
 65690312823/R0008682.JPG)</p>
 <p>烤蔬菜 -- 里面的大蒜挺好吃的 😄<br />
-<img src="media/16465690312823/R0008686.JPG" alt="R0008686" /></p>
+<img src="http://yxqwiki.oss-cn-beijing.aliyuncs.com/2022/03/07/r0008686.JPG" alt="R0008686" /></p>
 <p>静攀 -- 攀登的山峰<br />
-<img src="media/16465690312823/R0008678.JPG" alt="R0008678" /></p>
+<img src="http://yxqwiki.oss-cn-beijing.aliyuncs.com/2022/03/07/r0008678.JPG" alt="R0008678" /></p>
 <p>很有特色的登山镐作为拉手<br />
-<img src="media/16465690312823/R0008702.JPG" alt="R0008702" /></p>
+<img src="http://yxqwiki.oss-cn-beijing.aliyuncs.com/2022/03/07/r0008702.JPG" alt="R0008702" /></p>
 
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[在群晖NAS上使用icloudpd下载icloud上面的照片]]></title>
-    <link href="granulite.netlify.app/16458054027747.html"/>
+    <link href="yxq.wiki/16458054027747.html"/>
     <updated>2022-02-26T00:10:02+08:00</updated>
-    <id>granulite.netlify.app/16458054027747.html</id>
+    <id>yxq.wiki/16458054027747.html</id>
     <content type="html"><![CDATA[
 <p>#参考资料</p>
 <ul>
@@ -106,15 +127,17 @@ cd icloud_photos_downloader</p>
 cp cron_script.sh.example cron_script.sh</p>
 </li>
 </ol>
+<p>结束任务后通过telegram给自己发送消息</p>
+<p><a href="https://blog.imfing.com/2020/06/telegram-bot-notify-with-bash/">https://blog.imfing.com/2020/06/telegram-bot-notify-with-bash/</a></p>
 
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[瞬变 - "How to change things when change is hard"]]></title>
-    <link href="granulite.netlify.app/16440313803150.html"/>
+    <link href="yxq.wiki/16440313803150.html"/>
     <updated>2022-02-05T11:23:00+08:00</updated>
-    <id>granulite.netlify.app/16440313803150.html</id>
+    <id>yxq.wiki/16440313803150.html</id>
     <content type="html"><![CDATA[
 <h1><a id="%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86" class="anchor" aria-hidden="true"><span class="octicon octicon-link"></span></a>基本原理</h1>
 <p>大象（情绪）负责绝大部分工作, 而骑象人（理性）仅仅扮演着顾问或者仆人的角色</p>
@@ -251,9 +274,9 @@ collapsed:: true
   
   <entry>
     <title type="html"><![CDATA[关于产品架构的思考]]></title>
-    <link href="granulite.netlify.app/16440313551813.html"/>
+    <link href="yxq.wiki/16440313551813.html"/>
     <updated>2022-02-05T11:22:35+08:00</updated>
-    <id>granulite.netlify.app/16440313551813.html</id>
+    <id>yxq.wiki/16440313551813.html</id>
     <content type="html"><![CDATA[
 
 ]]></content>
@@ -261,19 +284,19 @@ collapsed:: true
   
   <entry>
     <title type="html"><![CDATA[关于用户动线设计的思考]]></title>
-    <link href="granulite.netlify.app/16440313380726.html"/>
+    <link href="yxq.wiki/16440313380726.html"/>
     <updated>2022-02-05T11:22:18+08:00</updated>
-    <id>granulite.netlify.app/16440313380726.html</id>
+    <id>yxq.wiki/16440313380726.html</id>
     <content type="html"><![CDATA[
 
 ]]></content>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[用户产品设计方法论之 -- 用户动线]]></title>
-    <link href="granulite.netlify.app/16132213835344.html"/>
+    <title type="html"><![CDATA[用户动线]]></title>
+    <link href="yxq.wiki/16132213835344.html"/>
     <updated>2021-02-13T21:03:03+08:00</updated>
-    <id>granulite.netlify.app/16132213835344.html</id>
+    <id>yxq.wiki/16132213835344.html</id>
     <content type="html"><![CDATA[
 <h2><a id="%E4%BB%80%E4%B9%88%E6%98%AF%E7%94%A8%E6%88%B7%E5%8A%A8%E7%BA%BF" class="anchor" aria-hidden="true"><span class="octicon octicon-link"></span></a>什么是用户动线</h2>
 <h2><a id="%E5%A6%82%E4%BD%95%E8%AE%BE%E8%AE%A1%E7%94%A8%E6%88%B7%E5%8A%A8%E7%BA%BF" class="anchor" aria-hidden="true"><span class="octicon octicon-link"></span></a>如何设计用户动线</h2>
@@ -283,9 +306,9 @@ collapsed:: true
   
   <entry>
     <title type="html"><![CDATA[mweb + github + netlify 搭建博客]]></title>
-    <link href="granulite.netlify.app/16132212457956.html"/>
+    <link href="yxq.wiki/16132212457956.html"/>
     <updated>2021-02-13T21:00:45+08:00</updated>
-    <id>granulite.netlify.app/16132212457956.html</id>
+    <id>yxq.wiki/16132212457956.html</id>
     <content type="html"><![CDATA[
 <h2><a id="1%E5%9C%A8%E6%9C%AC%E5%9C%B0%E7%94%9F%E6%88%90%E9%9D%99%E6%80%81%E7%AB%99%E7%82%B9%E6%96%87%E4%BB%B6" class="anchor" aria-hidden="true"><span class="octicon octicon-link"></span></a>1. 在本地生成静态站点文件</h2>
 <p>生成静态站点的工具有很多, 如hexo、hugo, mweb本身也提供了渲染功能</p>
@@ -299,10 +322,10 @@ collapsed:: true
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[关于产品的思考: 从业务模式到产品体验]]></title>
-    <link href="granulite.netlify.app/16130943945095.html"/>
+    <title type="html"><![CDATA[从业务模式到产品体验]]></title>
+    <link href="yxq.wiki/16130943945095.html"/>
     <updated>2021-02-12T09:46:34+08:00</updated>
-    <id>granulite.netlify.app/16130943945095.html</id>
+    <id>yxq.wiki/16130943945095.html</id>
     <content type="html"><![CDATA[
 <h2><a id="%E4%BA%A7%E5%93%81%E6%98%AF%E6%9C%80%E7%BB%88%E5%95%86%E4%B8%9A%E4%B8%9A%E5%8A%A1%E6%A8%A1%E5%BC%8F%E7%9A%84%E6%89%BF%E8%BD%BD" class="anchor" aria-hidden="true"><span class="octicon octicon-link"></span></a>产品是最终商业/业务模式的承载</h2>
 <p>从公司的视角: 业务模式 --&gt; 交付物 ( 产品 ) --&gt; 客户<br />
@@ -352,10 +375,10 @@ collapsed:: true
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[读书笔记 -- 横向领导力]]></title>
-    <link href="granulite.netlify.app/16130942791355.html"/>
+    <title type="html"><![CDATA[横向领导力]]></title>
+    <link href="yxq.wiki/16130942791355.html"/>
     <updated>2021-02-12T09:44:39+08:00</updated>
-    <id>granulite.netlify.app/16130942791355.html</id>
+    <id>yxq.wiki/16130942791355.html</id>
     <content type="html"><![CDATA[
 
 ]]></content>
@@ -363,9 +386,9 @@ collapsed:: true
   
   <entry>
     <title type="html"><![CDATA[]]></title>
-    <link href="granulite.netlify.app/16130942657991.html"/>
+    <link href="yxq.wiki/16130942657991.html"/>
     <updated>2021-02-12T09:44:25+08:00</updated>
-    <id>granulite.netlify.app/16130942657991.html</id>
+    <id>yxq.wiki/16130942657991.html</id>
     <content type="html"><![CDATA[
 
 ]]></content>
@@ -373,9 +396,9 @@ collapsed:: true
   
   <entry>
     <title type="html"><![CDATA[产品经理方法论沉淀框架]]></title>
-    <link href="granulite.netlify.app/15824509412404.html"/>
+    <link href="yxq.wiki/15824509412404.html"/>
     <updated>2020-02-23T17:42:21+08:00</updated>
-    <id>granulite.netlify.app/15824509412404.html</id>
+    <id>yxq.wiki/15824509412404.html</id>
     <content type="html"><![CDATA[
 <h2><a id="%E8%83%8C%E6%99%AF" class="anchor" aria-hidden="true"><span class="octicon octicon-link"></span></a>背景</h2>
 <h2><a id="%E9%81%93%E5%A6%82%E4%BD%95%E5%81%9A%E4%B8%80%E4%B8%AA%E7%A7%B0%E8%81%8C%E3%80%81%E5%90%88%E6%A0%BC%E7%9A%84%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86" class="anchor" aria-hidden="true"><span class="octicon octicon-link"></span></a>道 -- 如何做一个称职、合格的产品经理</h2>
@@ -403,9 +426,9 @@ collapsed:: true
   
   <entry>
     <title type="html"><![CDATA[数码工具-2019版]]></title>
-    <link href="granulite.netlify.app/3C-products-2019.html"/>
+    <link href="yxq.wiki/3C-products-2019.html"/>
     <updated>2019-10-04T23:23:13+08:00</updated>
-    <id>granulite.netlify.app/3C-products-2019.html</id>
+    <id>yxq.wiki/3C-products-2019.html</id>
     <content type="html"><![CDATA[
 <ul>
 <li>2019.10.19 第一版</li>
@@ -433,19 +456,19 @@ collapsed:: true
   
   <entry>
     <title type="html"><![CDATA[产品经理的岗位职责]]></title>
-    <link href="granulite.netlify.app/15701953123013.html"/>
+    <link href="yxq.wiki/15701953123013.html"/>
     <updated>2019-10-04T21:21:52+08:00</updated>
-    <id>granulite.netlify.app/15701953123013.html</id>
+    <id>yxq.wiki/15701953123013.html</id>
     <content type="html"><![CDATA[
 
 ]]></content>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[从商业模式到产品交付--谈产品经理的职能]]></title>
-    <link href="granulite.netlify.app/15701951903731.html"/>
+    <title type="html"><![CDATA[从商业模式到产品交付]]></title>
+    <link href="yxq.wiki/15701951903731.html"/>
     <updated>2019-10-04T21:19:50+08:00</updated>
-    <id>granulite.netlify.app/15701951903731.html</id>
+    <id>yxq.wiki/15701951903731.html</id>
     <content type="html"><![CDATA[
 
 ]]></content>
@@ -453,9 +476,9 @@ collapsed:: true
   
   <entry>
     <title type="html"><![CDATA[产品经理怎么画业务架构图]]></title>
-    <link href="granulite.netlify.app/product-architecture.html"/>
+    <link href="yxq.wiki/product-architecture.html"/>
     <updated>2019-10-04T21:17:31+08:00</updated>
-    <id>granulite.netlify.app/product-architecture.html</id>
+    <id>yxq.wiki/product-architecture.html</id>
     <content type="html"><![CDATA[
 
 ]]></content>
@@ -463,9 +486,9 @@ collapsed:: true
   
   <entry>
     <title type="html"><![CDATA[关于未来, 我的思考]]></title>
-    <link href="granulite.netlify.app/15691639178608.html"/>
+    <link href="yxq.wiki/15691639178608.html"/>
     <updated>2019-09-22T22:51:57+08:00</updated>
-    <id>granulite.netlify.app/15691639178608.html</id>
+    <id>yxq.wiki/15691639178608.html</id>
     <content type="html"><![CDATA[
 <p>标题改了好几轮: 1. 产品经理的未来出路是什么, 2. 作为产品经理, 我的出路是什么,  3. 我的出路是什么</p>
 
@@ -474,9 +497,9 @@ collapsed:: true
   
   <entry>
     <title type="html"><![CDATA[数码工具-2016版]]></title>
-    <link href="granulite.netlify.app/3C-products-2016.html"/>
+    <link href="yxq.wiki/3C-products-2016.html"/>
     <updated>2019-10-04T23:15:53+08:00</updated>
-    <id>granulite.netlify.app/3C-products-2016.html</id>
+    <id>yxq.wiki/3C-products-2016.html</id>
     <content type="html"><![CDATA[
 <h2><a id="2016" class="anchor" aria-hidden="true"><span class="octicon octicon-link"></span></a>2016</h2>
 <ul>
