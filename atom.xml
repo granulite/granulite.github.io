@@ -4,13 +4,14 @@
   <title><![CDATA[granulite's blog]]></title>
   <link href="yxq.wiki/atom.xml" rel="self"/>
   <link href="yxq.wiki/"/>
-  <updated>2022-11-05T16:42:46+08:00</updated>
+  <updated>2022-11-05T16:48:10+08:00</updated>
   <id>yxq.wiki/</id>
   <author>
     <name><![CDATA[]]></name>
     
   </author>
-  <generator uri="http://www.mweb.im/">MWeb</generator>
+  <generator uri="http://www.mweb.im">MWeb</generator>
+
   
   <entry>
     <title type="html"><![CDATA[产品设计]]></title>
@@ -23,7 +24,7 @@
 <li>产品架构</li>
 <li>产品动线设计</li>
 </ol>
-<p><a href="16440313551813.html">关于产品架构的思考</a></p>
+<p><a href="mweblib://16440313551813">关于产品架构的思考</a></p>
 
 ]]></content>
   </entry>
@@ -354,16 +355,6 @@ collapsed:: true
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[关于产品架构的思考]]></title>
-    <link href="yxq.wiki/16440313551813.html"/>
-    <updated>2022-02-05T11:22:35+08:00</updated>
-    <id>yxq.wiki/16440313551813.html</id>
-    <content type="html"><![CDATA[
-
-]]></content>
-  </entry>
-  
-  <entry>
     <title type="html"><![CDATA[关于用户动线设计的思考]]></title>
     <link href="yxq.wiki/16440313380726.html"/>
     <updated>2022-02-05T11:22:18+08:00</updated>
@@ -540,6 +531,16 @@ collapsed:: true
     <link href="yxq.wiki/15701951903731.html"/>
     <updated>2019-10-04T21:19:50+08:00</updated>
     <id>yxq.wiki/15701951903731.html</id>
+    <content type="html"><![CDATA[
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[产品经理怎么画业务架构图]]></title>
+    <link href="yxq.wiki/product-architecture.html"/>
+    <updated>2019-10-04T21:17:31+08:00</updated>
+    <id>yxq.wiki/product-architecture.html</id>
     <content type="html"><![CDATA[
 
 ]]></content>
