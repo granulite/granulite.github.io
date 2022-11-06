@@ -4,7 +4,7 @@
   <title><![CDATA[granulite's blog]]></title>
   <link href="yxq.wiki/atom.xml" rel="self"/>
   <link href="yxq.wiki/"/>
-  <updated>2022-11-06T10:01:36+08:00</updated>
+  <updated>2022-11-06T10:03:40+08:00</updated>
   <id>yxq.wiki/</id>
   <author>
     <name><![CDATA[]]></name>
@@ -13,93 +13,64 @@
   <generator uri="http://www.mweb.im/">MWeb</generator>
   
   <entry>
-    <title type="html"><![CDATA[产品设计]]></title>
-    <link href="yxq.wiki/16676374289618.html"/>
-    <updated>2022-11-05T16:37:08+08:00</updated>
-    <id>yxq.wiki/16676374289618.html</id>
+    <title type="html"><![CDATA[再读《高效能人士的7个习惯》]]></title>
+    <link href="yxq.wiki/16677006248319.html"/>
+    <updated>2022-11-06T10:10:24+08:00</updated>
+    <id>yxq.wiki/16677006248319.html</id>
     <content type="html"><![CDATA[
-<p>业务理解 --&gt; 业务问题定义 --&gt; 「产品设计」--&gt; ...</p>
+<h2><a id="%E4%B8%AA%E4%BA%BA%E6%80%9D%E8%80%83" class="anchor" aria-hidden="true"><span class="octicon octicon-link"></span></a>个人思考</h2>
 <ol>
-<li>产品架构</li>
-<li>产品动线设计</li>
+<li></li>
 </ol>
-<p><a href="mweblib://16440313551813">关于产品架构的思考</a></p>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[管理]]></title>
-    <link href="yxq.wiki/16676373533332.html"/>
-    <updated>2022-11-05T16:35:53+08:00</updated>
-    <id>yxq.wiki/16676373533332.html</id>
-    <content type="html"><![CDATA[
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[任天堂体验设计]]></title>
-    <link href="yxq.wiki/16676373424222.html"/>
-    <updated>2022-11-05T16:35:42+08:00</updated>
-    <id>yxq.wiki/16676373424222.html</id>
-    <content type="html"><![CDATA[
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[定位]]></title>
-    <link href="yxq.wiki/16676372946935.html"/>
-    <updated>2022-11-05T16:34:54+08:00</updated>
-    <id>yxq.wiki/16676372946935.html</id>
-    <content type="html"><![CDATA[
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[关于面向 消费者 的产品的一些思考]]></title>
-    <link href="yxq.wiki/16676372348592.html"/>
-    <updated>2022-11-05T16:33:54+08:00</updated>
-    <id>yxq.wiki/16676372348592.html</id>
-    <content type="html"><![CDATA[
-<p>按产品使用的决策来看: 面向 企业客户的 产品 和 面向消费者的产品</p>
+<h2><a id="%E5%86%85%E5%AE%B9%E6%A6%82%E8%A6%81" class="anchor" aria-hidden="true"><span class="octicon octicon-link"></span></a>内容概要</h2>
+<p>为了追求个人领域的成功，需要<br />
+1. 积极主动 Be Proactive<br />
+2. 以终为始 Begin with end in mind<br />
+3. 要事第一 First thing first<br />
+为了追求公众领域的成功，需要<br />
+4. 双赢思维 Think win-win<br />
+5. 知彼解己 Seek first to understand, then to be understood<br />
+6. 统合综效 Synthesize<br />
+7. 不断更新 sharpen the saw：更新身体资产、精神资产、智力资产、社会和情感资产</p>
+<p>用一张图来说明7个原则的关系</p>
+<h3><a id="%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5" class="anchor" aria-hidden="true"><span class="octicon octicon-link"></span></a>基本概念</h3>
 <ul>
-<li>支付宝、微信: ....</li>
-<li>飞书、钉钉: 企业客户</li>
+<li>习惯：习惯是知识、技巧、意愿相互交织的结果. 要养成一种有效的习惯三者缺一不可
+<ul>
+<li>知识指点“做什么”和“为什么做”，技巧是“如何做”，意愿是“想要做”
+<ul>
+<li>就算改变了视角, 培养习惯必须知道为什么这么做, 做什么, 怎么做, 才能真正达到有效. 不然只是”道理我都懂依然过不好人生“</li>
 </ul>
-<p>由于支付宝App其实最终是一个「面向消费者」的产品. 其所有的机制设计,应该回归到这个点上来思考. 即: 在满足C端用户需求的基础上, 制定合理的商业模式, 让其他参与者: 如商家、服务商等愿意(能盈利)在这个体系中, 一起来服务消费者. 以实现「」. 逻辑顺序是</p>
-<ol>
-<li>首先是这个平台上有消费者, 商家才会愿意在这个平台上经营他的用户</li>
-<li>商家认为这个平台能帮他更好地经营生意, 服务商才能打动商家</li>
-</ol>
-<p>落到实操层面的难点</p>
-<ol>
-<li>如何衡量: (也就是如何平衡) 以消息为例
-<ol>
-<li>商家想发尽可能给用户发消息: 平台</li>
-</ol>
+</li>
+</ul>
+<ul>
+<li>什么是效能 -- 产出/产能平衡
+<ul>
+<li>Production and Production Capaibility</li>
+</ul>
 </li>
 <li></li>
-</ol>
+</ul>
+</li>
+</ul>
+<ul>
+<li>其他人的读后感
+<ul>
+<li><a href="https://www.zhihu.com/question/23448090/answer/476138630">https://www.zhihu.com/question/23448090/answer/476138630</a></li>
+<li><a href="https://wklken.me/posts/2014/03/30/highly-effective-and-execution.html">https://wklken.me/posts/2014/03/30/highly-effective-and-execution.html</a></li>
+</ul>
+</li>
+</ul>
 
 ]]></content>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[夏日里的快乐事]]></title>
-    <link href="yxq.wiki/16585699363900.html"/>
-    <updated>2022-07-23T17:52:16+08:00</updated>
-    <id>yxq.wiki/16585699363900.html</id>
+    <title type="html"><![CDATA[上海迪斯尼20221027]]></title>
+    <link href="yxq.wiki/16677004317719.html"/>
+    <updated>2022-11-06T10:07:11+08:00</updated>
+    <id>yxq.wiki/16677004317719.html</id>
     <content type="html"><![CDATA[
-<ol>
-<li>
-<p>吃西瓜<br />
-<img src="media/16585699363900/16585699474155.jpg" alt="" /></p>
-</li>
-<li></li>
-</ol>
 
 ]]></content>
   </entry>
@@ -364,18 +335,6 @@ collapsed:: true
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[用户动线]]></title>
-    <link href="yxq.wiki/16132213835344.html"/>
-    <updated>2021-02-13T21:03:03+08:00</updated>
-    <id>yxq.wiki/16132213835344.html</id>
-    <content type="html"><![CDATA[
-<h2><a id="%E4%BB%80%E4%B9%88%E6%98%AF%E7%94%A8%E6%88%B7%E5%8A%A8%E7%BA%BF" class="anchor" aria-hidden="true"><span class="octicon octicon-link"></span></a>什么是用户动线</h2>
-<h2><a id="%E5%A6%82%E4%BD%95%E8%AE%BE%E8%AE%A1%E7%94%A8%E6%88%B7%E5%8A%A8%E7%BA%BF" class="anchor" aria-hidden="true"><span class="octicon octicon-link"></span></a>如何设计用户动线</h2>
-
-]]></content>
-  </entry>
-  
-  <entry>
     <title type="html"><![CDATA[mweb + github + netlify 搭建博客]]></title>
     <link href="yxq.wiki/16132212457956.html"/>
     <updated>2021-02-13T21:00:45+08:00</updated>
@@ -393,88 +352,11 @@ collapsed:: true
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[从业务模式到产品体验]]></title>
-    <link href="yxq.wiki/16130943945095.html"/>
-    <updated>2021-02-12T09:46:34+08:00</updated>
-    <id>yxq.wiki/16130943945095.html</id>
-    <content type="html"><![CDATA[
-<h2><a id="%E4%BA%A7%E5%93%81%E6%98%AF%E6%9C%80%E7%BB%88%E5%95%86%E4%B8%9A%E4%B8%9A%E5%8A%A1%E6%A8%A1%E5%BC%8F%E7%9A%84%E6%89%BF%E8%BD%BD" class="anchor" aria-hidden="true"><span class="octicon octicon-link"></span></a>产品是最终商业/业务模式的承载</h2>
-<p>从公司的视角: 业务模式 --&gt; 交付物 ( 产品 ) --&gt; 客户<br />
-业务模式影响了: 1、我们能否持续地经营我们的产品; 2、</p>
-<h2><a id="%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BA%A7%E5%93%81%E7%9A%84%E4%BD%93%E9%AA%8C%E9%87%8D%E8%A6%81" class="anchor" aria-hidden="true"><span class="octicon octicon-link"></span></a>为什么产品的体验重要</h2>
-<ul>
-<li>我们是在用实实在在的产品来服务客户</li>
-<li>客户的获取和流失 (存量市场上,</li>
-<li>新客户获取 :「产品体验」- 「竞品产品的体验」 - 「竞品产品替换成本」&gt; 0</li>
-<li>老客户流失 :「产品体验」- 「竞品产品的体验」 - 「产品替换成本」&lt; 0</li>
-</ul>
-<h2><a id="%E4%BB%8E%E9%9C%80%E6%B1%82%E8%90%BD%E5%9C%B0%E7%9A%84%E8%A7%86%E8%A7%92%E7%94%A8%E6%88%B7%E4%BD%93%E9%AA%8C%E8%A6%81%E7%B4%A0" class="anchor" aria-hidden="true"><span class="octicon octicon-link"></span></a>从需求落地的视角 --- 用户体验要素</h2>
-<p>1 --&gt; 5 抽象到具体, 概念到完成</p>
-<ol>
-<li>战略层: 产品目标和用户需求</li>
-<li>范围层: 功能规格和内容说明</li>
-<li>结构层: 交互设计和信息架构</li>
-<li>框架层: 界面设计、导航设计和信息设计</li>
-<li>表现层: 视觉设计. 内容、功能和美学汇集到一起, 产生一个最终设计</li>
-</ol>
-<h2><a id="%E6%80%8E%E4%B9%88%E5%9F%BA%E4%BA%8E%E7%94%A8%E6%88%B7%E8%A7%86%E8%A7%92%E5%8E%BB%E7%90%86%E8%A7%A3%E7%94%A8%E6%88%B7%E9%9C%80%E6%B1%82" class="anchor" aria-hidden="true"><span class="octicon octicon-link"></span></a>怎么基于用户视角去理解用户需求</h2>
-<ul>
-<li>马斯洛需求理论</li>
-</ul>
-<blockquote>
-<p>马斯洛需求层次理论（hierarchical theory of needs）是关于需要结构的理论: 人的需要有生理的需要、安全的需要、归属与爱的需要、尊重的需要、自我实现的需要五个等级构成。</p>
-</blockquote>
-<ol>
-<li>生理需求</li>
-<li>安全需求: 人们需要稳定、安全、受到保护、有秩序、能免除恐惧和焦虑等。</li>
-<li>社交需求: (归属与爱的需要) 一个人要求与其他人建立感情的联系或关系。例子：结交朋友、追求爱情</li>
-<li>尊重需求: 自尊和希望受到别人的尊重, 自尊的需要使人相信自己的力量和价值，使得自己更有能力，更有创造力。缺乏自尊，使人自卑，没有足够信心去处理问题。</li>
-<li>自我需求: 人们追求实现自己的能力或者潜能，并使之完善化。<br />
-在人生道路上自我实现的形式是不一样的，每个人都要机会去完善自己的能力，满足自我实现的需要。</li>
-</ol>
-<hr />
-<ol>
-<li>五种需要是最基本的，与生俱来的，构成不同的等级或水平，并成为激励和指引个体行为的力量。</li>
-<li>低级需要和高级需要的关系：马斯洛认为需要层次越低，力量越大，潜力越大。随着需要层次的上升，需要的力量相应减弱。高级需要出现之前，必须先满足低级需要。在从动物到人的进化中，高级需要出现得比较晚，婴儿有生理需要和安全需要，但自我实现需要在成人后出现；所有生物都需要食物和水分，但是只有人类才有自我实现的需要</li>
-<li>低级需要直接关系个体的生存，也叫缺失需要（deficit ordeficiency need），当这种需要得不到满足时直接危及生命；高级需要不是维持个体生存所绝对必须的，但是满足这种需要使人健康、长寿、精力旺盛，所以叫做生长需要（growth need）。高级需要比低级需要复杂，满足高级需要必须具备良好的外部条件：社会条件、经济条件、政治条件等</li>
-<li>马斯洛看到低级需要和高级需要的区别，要满足高级需要，必须先满足低级需要但是并不绝对对立。在人的高级需要产生以前，低级需要只要部分的满足就可以了。例子：为实现理想，不惜牺牲生命，不考虑生理需要和安全需要</li>
-<li>个体对需要的追求有所不同，有的对自尊的需要超过对爱和归属的需要</li>
-</ol>
-<hr />
-
-]]></content>
-  </entry>
-  
-  <entry>
     <title type="html"><![CDATA[横向领导力]]></title>
     <link href="yxq.wiki/16130942791355.html"/>
     <updated>2021-02-12T09:44:39+08:00</updated>
     <id>yxq.wiki/16130942791355.html</id>
     <content type="html"><![CDATA[
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[产品经理方法论沉淀框架]]></title>
-    <link href="yxq.wiki/15824509412404.html"/>
-    <updated>2020-02-23T17:42:21+08:00</updated>
-    <id>yxq.wiki/15824509412404.html</id>
-    <content type="html"><![CDATA[
-<h2><a id="%E8%83%8C%E6%99%AF" class="anchor" aria-hidden="true"><span class="octicon octicon-link"></span></a>背景</h2>
-<h2><a id="%E9%81%93%E5%A6%82%E4%BD%95%E5%81%9A%E4%B8%80%E4%B8%AA%E7%A7%B0%E8%81%8C%E3%80%81%E5%90%88%E6%A0%BC%E7%9A%84%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86" class="anchor" aria-hidden="true"><span class="octicon octicon-link"></span></a>道 -- 如何做一个称职、合格的产品经理</h2>
-<ul>
-<li>岗位职责</li>
-<li>常用思维方式</li>
-<li></li>
-</ul>
-<h2><a id="%E6%9C%AF%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86%E6%97%A5%E5%B8%B8%E5%B7%A5%E4%BD%9C%E7%9A%84%E6%96%B9%E6%B3%95" class="anchor" aria-hidden="true"><span class="octicon octicon-link"></span></a>术 - 产品经理日常工作的方法</h2>
-<ul>
-<li>如何做产品规划</li>
-<li>如何做产品架构</li>
-<li>如何做产品设计</li>
-<li>如何用图表阐明思路</li>
-</ul>
 
 ]]></content>
   </entry>
@@ -510,31 +392,86 @@ collapsed:: true
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[产品经理的岗位职责]]></title>
-    <link href="yxq.wiki/15701953123013.html"/>
-    <updated>2019-10-04T21:21:52+08:00</updated>
-    <id>yxq.wiki/15701953123013.html</id>
+    <title type="html"><![CDATA[数码工具-2016版]]></title>
+    <link href="yxq.wiki/3C-products-2016.html"/>
+    <updated>2019-10-04T23:15:53+08:00</updated>
+    <id>yxq.wiki/3C-products-2016.html</id>
     <content type="html"><![CDATA[
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[从商业模式到产品交付]]></title>
-    <link href="yxq.wiki/15701951903731.html"/>
-    <updated>2019-10-04T21:19:50+08:00</updated>
-    <id>yxq.wiki/15701951903731.html</id>
-    <content type="html"><![CDATA[
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[产品经理怎么画业务架构图]]></title>
-    <link href="yxq.wiki/product-architecture.html"/>
-    <updated>2019-10-04T21:17:31+08:00</updated>
-    <id>yxq.wiki/product-architecture.html</id>
-    <content type="html"><![CDATA[
+<h2><a id="2016" class="anchor" aria-hidden="true"><span class="octicon octicon-link"></span></a>2016</h2>
+<ul>
+<li>iPhone 6s Plus 64G
+<ul>
+<li>4400 RMB 美版 购于百脑汇</li>
+</ul>
+</li>
+<li>腾龙17 - 50 2.8 镜头（B005）尼康口
+<ul>
+<li>201年06月23日958购于咸鱼</li>
+</ul>
+</li>
+<li>尼康 SB600 闪光灯
+<ul>
+<li>2016年9月25日购于咸鱼</li>
+</ul>
+</li>
+<li>美能达X-700胶片相机
+<ul>
+<li>2016年6月1000购于淘宝</li>
+<li>2016年11月800出售给朋友</li>
+</ul>
+</li>
+<li></li>
+</ul>
+<h2><a id="2015" class="anchor" aria-hidden="true"><span class="octicon octicon-link"></span></a>2015</h2>
+<ul>
+<li><a href="http://www.apple.com/au/shop/product/HGDS2VC/A/bose-quietcomfort-25-acoustic-noise-cancelling-headphones?fnode=e7e9e4061589273caaffc668a287a3819cde2f17ee8c7d0953f4cad5a19b017792d82988a484c90eae2110e2ee3459b53f2764ce9f3fa32030656c026a5b6445e6c73d7a31a6f56225bb873b8a3ea0cbf044937fd3fbd0c5245cf104068676c0">Bose QC25</a>:<br />
+* 399.95 Aud<br />
+* 2015年12月8日苹果店购入
+<ul>
+<li><strong>已丢失</strong></li>
+</ul>
+</li>
+<li><a href="http://www.apple.com/au/shop/product/HG4R2ZM/A/thule-32l-crossover-backpack?fnode=ee495915fed6b462ef6901408cfc67fc097d7e6286c8886ebdc2045ffdaf21ebb0c6aa29d1cfbec360f7636ddef2581210f1e68275155e874404bec77a37e18cf8a2825bcd914d319ff9f7e3cb483c918b1b670839d6503d065c25cdef42dadc">Thule 25L Crossover Backpack</a>
+<ul>
+<li>150 Aud</li>
+</ul>
+</li>
+<li><a href="http://www.apple.com/au/shop/buy-mac/macbook-pro?product=MF840X/A&amp;step=config#">13-inch MacBook Pro with Retina display</a> + Apple Care<br />
+* 2004 + 227 Aud (教育优惠价)<br />
+* 2015年7月购入</li>
+<li>D3300 + 35mm/1.8G<br />
+* 550 Aud<br />
+* @Camera House Broadway Sydney</li>
+<li>杂牌耳机：50 Aud</li>
+<li><a href="https://en.wikipedia.org/wiki/UE_ROLL">UE ROLL</a>:<br />
+* 98 Aud<br />
+* 购于Monday, 4 January 2016<br />
+* @ Dick Smith Ashfield Australia</li>
+</ul>
+<h2><a id="%E4%B9%8B%E5%89%8D%E8%B4%AD%E4%B9%B0" class="anchor" aria-hidden="true"><span class="octicon octicon-link"></span></a>之前购买</h2>
+<ul>
+<li>联想K29笔记本:
+<ul>
+<li>(2+8)G RAM + 128G °C + 1T HDD</li>
+<li>2013年7月购入</li>
+</ul>
+</li>
+<li>iPad Air 2 Cellar 16G: 3100 RMB
+<ul>
+<li>更新，已换成128G硬盘</li>
+</ul>
+</li>
+<li>iPhone 5S: 3400 RMB
+<ul>
+<li>更新，2016年11月，已进水无法使用</li>
+</ul>
+</li>
+<li>iPhone 4s: 收不到信号，<strong>已送人做测试机</strong></li>
+<li>Blackberry 9700: 300 RMB</li>
+<li>Kindle Paper White 2: 600 RMB</li>
+<li>凯酷Keycool 87机械键盘</li>
+<li>Dell U2412M: 1699 RMB</li>
+</ul>
 
 ]]></content>
   </entry>
