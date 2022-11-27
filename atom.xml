@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[granulite's blog]]></title>
-  <link href="yxq.wiki/atom.xml" rel="self"/>
-  <link href="yxq.wiki/"/>
-  <updated>2022-11-27T22:51:10+08:00</updated>
-  <id>yxq.wiki/</id>
+  <link href="granulite.github.io/atom.xml" rel="self"/>
+  <link href="granulite.github.io/"/>
+  <updated>2022-11-27T23:04:36+08:00</updated>
+  <id>granulite.github.io/</id>
   <author>
     <name><![CDATA[]]></name>
     
@@ -14,9 +14,9 @@
   
   <entry>
     <title type="html"><![CDATA[再读《高效能人士的7个习惯》]]></title>
-    <link href="yxq.wiki/16677006248319.html"/>
+    <link href="granulite.github.io/16677006248319.html"/>
     <updated>2022-11-06T10:10:24+08:00</updated>
-    <id>yxq.wiki/16677006248319.html</id>
+    <id>granulite.github.io/16677006248319.html</id>
     <content type="html"><![CDATA[
 <h2><a id="%E4%B8%AA%E4%BA%BA%E6%80%9D%E8%80%83" class="anchor" aria-hidden="true"><span class="octicon octicon-link"></span></a>个人思考</h2>
 <p>在职场工作几年后，重读此书，有几点让我映像深刻<br />
@@ -55,9 +55,9 @@
   
   <entry>
     <title type="html"><![CDATA[上海迪斯尼20221027]]></title>
-    <link href="yxq.wiki/16677004317719.html"/>
+    <link href="granulite.github.io/16677004317719.html"/>
     <updated>2022-11-06T10:07:11+08:00</updated>
-    <id>yxq.wiki/16677004317719.html</id>
+    <id>granulite.github.io/16677004317719.html</id>
     <content type="html"><![CDATA[
 
 ]]></content>
@@ -65,9 +65,9 @@
   
   <entry>
     <title type="html"><![CDATA[如何使用Time Machine将文件从Mac备份到Synology NAS？]]></title>
-    <link href="yxq.wiki/16470723446450.html"/>
+    <link href="granulite.github.io/16470723446450.html"/>
     <updated>2022-03-12T16:05:44+08:00</updated>
-    <id>yxq.wiki/16470723446450.html</id>
+    <id>granulite.github.io/16470723446450.html</id>
     <content type="html"><![CDATA[
 <p><a href="https://kb.synology.cn/zh-cn/DSM/tutorial/How_to_back_up_files_from_Mac_to_Synology_NAS_with_Time_Machine">https://kb.synology.cn/zh-cn/DSM/tutorial/How_to_back_up_files_from_Mac_to_Synology_NAS_with_Time_Machine</a></p>
 
@@ -76,9 +76,9 @@
   
   <entry>
     <title type="html"><![CDATA[静攀美食]]></title>
-    <link href="yxq.wiki/jingpanmeishi.html"/>
+    <link href="granulite.github.io/jingpanmeishi.html"/>
     <updated>2022-03-06T20:17:11+08:00</updated>
-    <id>yxq.wiki/jingpanmeishi.html</id>
+    <id>granulite.github.io/jingpanmeishi.html</id>
     <content type="html"><![CDATA[
 <p>2022年3月6日 20:18:45</p>
 <p>提了很久的 静攀 约定，今天终于来兑现了.<br />
@@ -114,9 +114,9 @@
   
   <entry>
     <title type="html"><![CDATA[在群晖NAS上使用icloudpd下载icloud上面的照片]]></title>
-    <link href="yxq.wiki/16458054027747.html"/>
+    <link href="granulite.github.io/16458054027747.html"/>
     <updated>2022-02-26T00:10:02+08:00</updated>
-    <id>yxq.wiki/16458054027747.html</id>
+    <id>granulite.github.io/16458054027747.html</id>
     <content type="html"><![CDATA[
 <p>#参考资料</p>
 <ul>
@@ -175,9 +175,9 @@ cp cron_script.sh.example cron_script.sh</p>
   
   <entry>
     <title type="html"><![CDATA[瞬变 - "How to change things when change is hard"]]></title>
-    <link href="yxq.wiki/16440313803150.html"/>
+    <link href="granulite.github.io/16440313803150.html"/>
     <updated>2022-02-05T11:23:00+08:00</updated>
-    <id>yxq.wiki/16440313803150.html</id>
+    <id>granulite.github.io/16440313803150.html</id>
     <content type="html"><![CDATA[
 <h2><a id="1%E8%AF%BB%E5%90%8E%E6%84%9F" class="anchor" aria-hidden="true"><span class="octicon octicon-link"></span></a>1. 读后感</h2>
 <p>本书以大象和骑象人作为比喻，思考人的「感性」与「理性」以及与环境的作用，让「人」发生改变的办法。大象是非理性的、自动化的、懒惰的、难于控制的，而骑象人是理性的，但同时又是与大象的直接博弈中处于弱势的。</p>
@@ -299,9 +299,9 @@ collapsed:: true
   
   <entry>
     <title type="html"><![CDATA[关于用户动线设计的思考]]></title>
-    <link href="yxq.wiki/16440313380726.html"/>
+    <link href="granulite.github.io/16440313380726.html"/>
     <updated>2022-02-05T11:22:18+08:00</updated>
-    <id>yxq.wiki/16440313380726.html</id>
+    <id>granulite.github.io/16440313380726.html</id>
     <content type="html"><![CDATA[
 
 ]]></content>
@@ -309,9 +309,9 @@ collapsed:: true
   
   <entry>
     <title type="html"><![CDATA[mweb + github + netlify 搭建博客]]></title>
-    <link href="yxq.wiki/16132212457956.html"/>
+    <link href="granulite.github.io/16132212457956.html"/>
     <updated>2021-02-13T21:00:45+08:00</updated>
-    <id>yxq.wiki/16132212457956.html</id>
+    <id>granulite.github.io/16132212457956.html</id>
     <content type="html"><![CDATA[
 <h2><a id="1%E5%9C%A8%E6%9C%AC%E5%9C%B0%E7%94%9F%E6%88%90%E9%9D%99%E6%80%81%E7%AB%99%E7%82%B9%E6%96%87%E4%BB%B6" class="anchor" aria-hidden="true"><span class="octicon octicon-link"></span></a>1. 在本地生成静态站点文件</h2>
 <p>生成静态站点的工具有很多, 如hexo、hugo, mweb本身也提供了渲染功能</p>
@@ -326,9 +326,9 @@ collapsed:: true
   
   <entry>
     <title type="html"><![CDATA[横向领导力]]></title>
-    <link href="yxq.wiki/16130942791355.html"/>
+    <link href="granulite.github.io/16130942791355.html"/>
     <updated>2021-02-12T09:44:39+08:00</updated>
-    <id>yxq.wiki/16130942791355.html</id>
+    <id>granulite.github.io/16130942791355.html</id>
     <content type="html"><![CDATA[
 
 ]]></content>
@@ -336,9 +336,9 @@ collapsed:: true
   
   <entry>
     <title type="html"><![CDATA[数码工具-2019版]]></title>
-    <link href="yxq.wiki/3C-products-2019.html"/>
+    <link href="granulite.github.io/3C-products-2019.html"/>
     <updated>2019-10-04T23:23:13+08:00</updated>
-    <id>yxq.wiki/3C-products-2019.html</id>
+    <id>granulite.github.io/3C-products-2019.html</id>
     <content type="html"><![CDATA[
 <ul>
 <li>2019.10.19 第一版</li>
@@ -366,9 +366,9 @@ collapsed:: true
   
   <entry>
     <title type="html"><![CDATA[数码工具-2016版]]></title>
-    <link href="yxq.wiki/3C-products-2016.html"/>
+    <link href="granulite.github.io/3C-products-2016.html"/>
     <updated>2019-10-04T23:15:53+08:00</updated>
-    <id>yxq.wiki/3C-products-2016.html</id>
+    <id>granulite.github.io/3C-products-2016.html</id>
     <content type="html"><![CDATA[
 <h2><a id="2016" class="anchor" aria-hidden="true"><span class="octicon octicon-link"></span></a>2016</h2>
 <ul>
