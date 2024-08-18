@@ -1,6 +1,9 @@
 {
-    "title":"Blog Title",
-    "subTitle":"Blog description",
+    "title":"奥德瑞的个人空间",
+    "subTitle":"这里是奥德瑞分享工作和生活的地方",
     "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
+ "themeMode":"manual",
+"dayTheme":"light",
+"nightTheme":"Dark Protanopia & Deuteranopia",
     "GMEEK_VERSION":"last"
 }
